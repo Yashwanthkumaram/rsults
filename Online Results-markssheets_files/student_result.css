@@ -1,0 +1,80 @@
+.result_vw{
+	background: #ccc url(../../images/login_bg.png) left top repeat-x;
+}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    //background-color: #ecf0f5;
+	background-color:white;
+}
+.brand_img{
+	position: relative;
+	max-width: 140px;
+	bottom: 15px;
+}
+.main-footer {
+   
+   position: relative;
+   width:100%;
+}
+.register-box {
+    width: 360px;
+	margin: 0 auto!important;
+}
+.content-wrapper, .right-side, .main-footer{
+margin-left : 0px! important;
+}
+.content-wrapper{
+/* background-color:#FFF !important; */
+}
+ .result_table{
+	width:50%;
+	margin-left:400px;
+	margin-top:10px;
+	position: relative;
+} 
+
+.register-box-body{
+	margin-top:10%;
+	margin-left:10px;
+	position: relative;
+	text-align: center;
+	border: solid 1px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 14px rgba(0,0,0, 0.75);
+	-moz-box-shadow:    0px 0px 14px rgba(0,0,0, 0.75);
+	box-shadow:         0px 0px 14px rgba(0,0,0, 0.75);
+}
+.danger{
+	color:red;
+	font-weight: bold;
+}
+}
+.register-logo{
+margin-top:0%!important;
+font-size:25px!important;
+margin-bottom: 10px!important;
+text-decoration: underline;
+}
+.table-bordered td {
+    border-bottom-width: 2px;
+    padding: 5px;
+}
+.table-bordered th {
+	text-align:center;
+}
+.back_home {
+	margin-left:25%;
+}
+#result_data{
+	float:center!important;
+}
+.logo_img{
+	height:60px;	
+}
+.org_container{
+	float:center;
+	color: #337ab7;
+    font-size: 24px;
+}	
+.usn_heading{position: relative;bottom: 25px; margin-left: 35%;font-size:20px;}
